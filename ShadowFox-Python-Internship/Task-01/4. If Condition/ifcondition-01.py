@@ -1,5 +1,5 @@
 '''
-Write a program to determine the BMI Category based on user input.
+1. Write a program to determine the BMI Category based on user input.
 Ask the user to:
 Enter height in meters
 Enter weight in kilograms
