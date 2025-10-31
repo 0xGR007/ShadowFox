@@ -25,7 +25,7 @@ This repo contains all my internship tasks — from **Beginner** to **Advanced**
 
 > Focus: Practical applications of Python logic and libraries.
 
-* `Task-02/2. Hangmanhangman.py` → Classic Hangman game with limited lives and word pool
+* `Task-02/2. Hangman/hangman.py` → Classic Hangman game with limited lives and word pool
 * `Task-02/1. Web Scraper/web_scraper.py` → Web scraping using **BeautifulSoup** to extract quotes and save them to a CSV file
 
 ---
@@ -34,9 +34,9 @@ This repo contains all my internship tasks — from **Beginner** to **Advanced**
 
 > Focus: Sports analytics and data visualization with Python.
 
-* 📊 `Fielding_Analysis.ipynb` → End-to-end cricket fielding performance analysis notebook
-* 📁 `cricket_fielding_analysis.csv` → Dataset containing simulated fielding events
-* 📉 `cricket_fielding_analysis.png` → Visual summary of player performance
+* 📊 `Task-03/Fielding_Analysis.ipynb` → End-to-end cricket fielding performance analysis notebook
+* 📁 `Task-03/cricket_fielding_analysis.csv` → Dataset containing simulated fielding events
+* 📉 `Task-03/cricket_fielding_analysis.png` → Visual summary of player performance
 
 **Players analyzed:** MS Dhoni, Virat Kohli, Ravindra Jadeja
 
