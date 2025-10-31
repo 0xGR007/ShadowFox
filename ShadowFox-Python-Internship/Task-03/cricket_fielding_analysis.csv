@@ -1,0 +1,121 @@
+Match_No,Innings,Team,Player_Name,Ball_Count,Position,Short_Description,Pick,Throw,Runs_Saved,Over_Count,Venue,Timestamp
+1,1,India,MS Dhoni,4,Mid-wicket,Clean pick up by MS Dhoni at Mid-wicket,clean_pick,none,0,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.093703
+1,1,India,MS Dhoni,2,Point,Clean pick up by MS Dhoni at Point,clean_pick,none,2,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.093876
+1,1,India,MS Dhoni,3,Long-on,Clean pick up by MS Dhoni at Long-on,clean_pick,none,1,4,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.094012
+1,1,India,MS Dhoni,2,Cover,Clean pick up by MS Dhoni at Cover,clean_pick,none,1,6,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.094141
+1,1,India,MS Dhoni,1,Wicket-keeper,Catch taken by MS Dhoni,catch,none,2,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.094270
+1,1,India,MS Dhoni,6,Long-on,Ball fumbled by MS Dhoni,fumble,none,-3,16,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.094396
+1,1,India,MS Dhoni,4,Wicket-keeper,Clean pick up by MS Dhoni at Wicket-keeper,clean_pick,none,2,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.094521
+1,1,India,MS Dhoni,5,Wicket-keeper,Clean pick up by MS Dhoni at Wicket-keeper,clean_pick,none,0,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.094664
+1,1,India,MS Dhoni,2,Slip,Good throw from MS Dhoni,good_throw,none,0,14,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.094793
+1,1,India,MS Dhoni,4,Cover,Good throw from MS Dhoni,good_throw,none,2,2,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.094915
+1,1,India,MS Dhoni,5,Deep square leg,Clean pick up by MS Dhoni at Deep square leg,clean_pick,none,0,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.095037
+1,1,India,MS Dhoni,2,Cover,Good throw from MS Dhoni,good_throw,none,1,4,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.095162
+1,1,India,MS Dhoni,4,Long-on,Clean pick up by MS Dhoni at Long-on,clean_pick,none,1,10,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.095284
+1,1,India,MS Dhoni,2,Slip,Bad throw by MS Dhoni,bad_throw,none,-2,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.095404
+1,1,India,MS Dhoni,6,Deep square leg,Catch taken by MS Dhoni,catch,none,5,16,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.095524
+1,1,India,MS Dhoni,5,Slip,Catch dropped by MS Dhoni,dropped_catch,none,-2,16,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.095659
+1,1,India,MS Dhoni,1,Mid-wicket,Ball fumbled by MS Dhoni,fumble,none,-1,13,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.095779
+1,1,India,MS Dhoni,1,Wicket-keeper,Clean pick up by MS Dhoni at Wicket-keeper,clean_pick,none,2,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.095909
+1,1,India,MS Dhoni,3,Wicket-keeper,Direct hit by MS Dhoni,direct_hit,none,2,11,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.096028
+1,1,India,MS Dhoni,3,Mid-wicket,Bad throw by MS Dhoni,bad_throw,none,-2,1,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.096149
+1,1,India,MS Dhoni,4,Deep square leg,Bad throw by MS Dhoni,bad_throw,none,-2,9,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.096268
+1,1,India,MS Dhoni,6,Mid-wicket,Direct hit by MS Dhoni,direct_hit,none,1,1,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.096388
+1,1,India,MS Dhoni,1,Point,Clean pick up by MS Dhoni at Point,clean_pick,none,1,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.096507
+1,1,India,MS Dhoni,1,Mid-wicket,Stumping by MS Dhoni,stumping,stumping,3,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.096641
+1,1,India,MS Dhoni,2,Slip,Good throw from MS Dhoni,good_throw,none,2,9,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.096781
+1,1,India,MS Dhoni,1,Cover,Stumping by MS Dhoni,stumping,stumping,4,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.096911
+1,1,India,MS Dhoni,5,Deep square leg,Ball fumbled by MS Dhoni,fumble,none,-1,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.097037
+1,1,India,MS Dhoni,3,Point,Clean pick up by MS Dhoni at Point,clean_pick,none,1,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.097158
+1,1,India,MS Dhoni,5,Long-on,Run out missed by MS Dhoni,missed_run_out,missed_run_out,-2,10,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.097277
+1,1,India,MS Dhoni,4,Cover,Bad throw by MS Dhoni,bad_throw,none,-3,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.097397
+1,1,India,MS Dhoni,6,Wicket-keeper,Good throw from MS Dhoni,good_throw,none,2,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.097517
+1,1,India,MS Dhoni,5,Wicket-keeper,Good throw from MS Dhoni,good_throw,none,1,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.097652
+1,1,India,MS Dhoni,3,Wicket-keeper,Catch taken by MS Dhoni,catch,none,1,8,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.097771
+1,1,India,MS Dhoni,2,Cover,Clean pick up by MS Dhoni at Cover,clean_pick,none,2,19,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.097899
+1,1,India,MS Dhoni,4,Wicket-keeper,Clean pick up by MS Dhoni at Wicket-keeper,clean_pick,none,1,9,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.098018
+1,1,India,MS Dhoni,4,Long-on,Run out missed by MS Dhoni,missed_run_out,missed_run_out,-3,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.098138
+1,1,India,MS Dhoni,5,Wicket-keeper,Stumping missed by MS Dhoni,missed_stumping,missed_stumping,-3,17,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.098257
+1,1,India,MS Dhoni,2,Slip,Good throw from MS Dhoni,good_throw,none,2,17,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.098375
+1,1,India,MS Dhoni,1,Wicket-keeper,Clean pick up by MS Dhoni at Wicket-keeper,clean_pick,none,1,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.098492
+1,1,India,MS Dhoni,2,Long-on,Clean pick up by MS Dhoni at Long-on,clean_pick,none,2,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.098629
+1,1,India,Ravindra Jadeja,4,Slip,Clean pick up by Ravindra Jadeja at Slip,clean_pick,none,0,19,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.103767
+1,1,India,Ravindra Jadeja,4,Mid-wicket,Clean pick up by Ravindra Jadeja at Mid-wicket,clean_pick,none,1,9,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.103896
+1,1,India,Ravindra Jadeja,2,Long-on,Clean pick up by Ravindra Jadeja at Long-on,clean_pick,none,0,1,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.104016
+1,1,India,Ravindra Jadeja,5,Mid-wicket,Run out missed by Ravindra Jadeja,missed_run_out,missed_run_out,-1,8,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.104136
+1,1,India,Ravindra Jadeja,5,Long-on,Direct hit by Ravindra Jadeja,direct_hit,none,2,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.104256
+1,1,India,Ravindra Jadeja,2,Point,Ball fumbled by Ravindra Jadeja,fumble,none,-1,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.104376
+1,1,India,Ravindra Jadeja,4,Mid-wicket,Clean pick up by Ravindra Jadeja at Mid-wicket,clean_pick,none,1,14,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.104496
+1,1,India,Ravindra Jadeja,6,Cover,Clean pick up by Ravindra Jadeja at Cover,clean_pick,none,1,14,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.104656
+1,1,India,Ravindra Jadeja,5,Deep square leg,Good throw from Ravindra Jadeja,good_throw,none,1,16,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.104778
+1,1,India,Ravindra Jadeja,2,Slip,Bad throw by Ravindra Jadeja,bad_throw,none,-2,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.104906
+1,1,India,Ravindra Jadeja,2,Slip,Bad throw by Ravindra Jadeja,bad_throw,none,-1,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.105025
+1,1,India,Ravindra Jadeja,5,Cover,Run out by Ravindra Jadeja,run_out,run_out,2,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.105145
+1,1,India,Ravindra Jadeja,4,Point,Ball fumbled by Ravindra Jadeja,fumble,none,-2,17,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.105264
+1,1,India,Ravindra Jadeja,4,Wicket-keeper,Catch taken by Ravindra Jadeja,catch,none,3,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.105384
+1,1,India,Ravindra Jadeja,5,Cover,Good throw from Ravindra Jadeja,good_throw,none,0,11,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.105501
+1,1,India,Ravindra Jadeja,2,Point,Clean pick up by Ravindra Jadeja at Point,clean_pick,none,0,8,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.105635
+1,1,India,Ravindra Jadeja,6,Slip,Clean pick up by Ravindra Jadeja at Slip,clean_pick,none,1,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.106056
+1,1,India,Ravindra Jadeja,1,Slip,Good throw from Ravindra Jadeja,good_throw,none,1,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.106235
+1,1,India,Ravindra Jadeja,2,Long-on,Ball fumbled by Ravindra Jadeja,fumble,none,-1,10,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.106371
+1,1,India,Ravindra Jadeja,4,Slip,Run out missed by Ravindra Jadeja,missed_run_out,missed_run_out,-1,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.106502
+1,1,India,Ravindra Jadeja,5,Cover,Good throw from Ravindra Jadeja,good_throw,none,0,11,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.106665
+1,1,India,Ravindra Jadeja,2,Mid-wicket,Ball fumbled by Ravindra Jadeja,fumble,none,-3,4,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107245
+1,1,India,Ravindra Jadeja,3,Cover,Good throw from Ravindra Jadeja,good_throw,none,2,17,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107367
+1,1,India,Ravindra Jadeja,4,Wicket-keeper,Run out missed by Ravindra Jadeja,missed_run_out,missed_run_out,-3,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107440
+1,1,India,Ravindra Jadeja,1,Long-on,Bad throw by Ravindra Jadeja,bad_throw,none,-2,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107509
+1,1,India,Ravindra Jadeja,1,Long-on,Good throw from Ravindra Jadeja,good_throw,none,2,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107622
+1,1,India,Ravindra Jadeja,4,Cover,Stumping missed by Ravindra Jadeja,missed_stumping,missed_stumping,-3,17,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107694
+1,1,India,Ravindra Jadeja,1,Deep square leg,Stumping missed by Ravindra Jadeja,missed_stumping,missed_stumping,-3,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107787
+1,1,India,Ravindra Jadeja,3,Slip,Run out missed by Ravindra Jadeja,missed_run_out,missed_run_out,-1,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107853
+1,1,India,Ravindra Jadeja,3,Cover,Good throw from Ravindra Jadeja,good_throw,none,2,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107920
+1,1,India,Ravindra Jadeja,5,Deep square leg,Ball fumbled by Ravindra Jadeja,fumble,none,-3,4,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.107991
+1,1,India,Ravindra Jadeja,5,Slip,Stumping missed by Ravindra Jadeja,missed_stumping,missed_stumping,-2,13,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108057
+1,1,India,Ravindra Jadeja,3,Deep square leg,Catch dropped by Ravindra Jadeja,dropped_catch,none,-3,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108121
+1,1,India,Ravindra Jadeja,4,Wicket-keeper,Ball fumbled by Ravindra Jadeja,fumble,none,-1,18,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108187
+1,1,India,Ravindra Jadeja,6,Mid-wicket,Clean pick up by Ravindra Jadeja at Mid-wicket,clean_pick,none,0,6,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108251
+1,1,India,Ravindra Jadeja,3,Slip,Clean pick up by Ravindra Jadeja at Slip,clean_pick,none,0,18,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108315
+1,1,India,Ravindra Jadeja,6,Point,Run out by Ravindra Jadeja,run_out,run_out,5,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108379
+1,1,India,Ravindra Jadeja,6,Cover,Clean pick up by Ravindra Jadeja at Cover,clean_pick,none,2,1,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108447
+1,1,India,Ravindra Jadeja,4,Cover,Good throw from Ravindra Jadeja,good_throw,none,2,13,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108511
+1,1,India,Ravindra Jadeja,5,Cover,Catch dropped by Ravindra Jadeja,dropped_catch,none,-3,19,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.108613
+1,1,India,Virat Kohli,3,Wicket-keeper,Direct hit by Virat Kohli,direct_hit,none,0,11,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.098778
+1,1,India,Virat Kohli,2,Long-on,Good throw from Virat Kohli,good_throw,none,2,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.098910
+1,1,India,Virat Kohli,1,Wicket-keeper,Good throw from Virat Kohli,good_throw,none,1,16,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.099032
+1,1,India,Virat Kohli,5,Point,Run out by Virat Kohli,run_out,run_out,3,16,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.099154
+1,1,India,Virat Kohli,3,Slip,Catch taken by Virat Kohli,catch,none,3,4,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.099273
+1,1,India,Virat Kohli,4,Wicket-keeper,Run out missed by Virat Kohli,missed_run_out,missed_run_out,-3,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.099393
+1,1,India,Virat Kohli,1,Point,Good throw from Virat Kohli,good_throw,none,0,18,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.099511
+1,1,India,Virat Kohli,6,Slip,Good throw from Virat Kohli,good_throw,none,1,18,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.099648
+1,1,India,Virat Kohli,1,Cover,Catch taken by Virat Kohli,catch,none,2,16,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.099767
+1,1,India,Virat Kohli,6,Cover,Catch dropped by Virat Kohli,dropped_catch,none,-3,1,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.099896
+1,1,India,Virat Kohli,1,Point,Direct hit by Virat Kohli,direct_hit,none,2,9,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.100016
+1,1,India,Virat Kohli,6,Wicket-keeper,Run out missed by Virat Kohli,missed_run_out,missed_run_out,-3,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.100138
+1,1,India,Virat Kohli,4,Long-on,Run out missed by Virat Kohli,missed_run_out,missed_run_out,-2,17,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.100258
+1,1,India,Virat Kohli,6,Wicket-keeper,Run out missed by Virat Kohli,missed_run_out,missed_run_out,-1,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.100378
+1,1,India,Virat Kohli,6,Slip,Catch taken by Virat Kohli,catch,none,3,18,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.100496
+1,1,India,Virat Kohli,5,Wicket-keeper,Clean pick up by Virat Kohli at Wicket-keeper,clean_pick,none,0,16,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.100634
+1,1,India,Virat Kohli,5,Cover,Good throw from Virat Kohli,good_throw,none,2,14,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.100754
+1,1,India,Virat Kohli,1,Wicket-keeper,Catch dropped by Virat Kohli,dropped_catch,none,-3,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.100886
+1,1,India,Virat Kohli,6,Deep square leg,Good throw from Virat Kohli,good_throw,none,1,19,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.101007
+1,1,India,Virat Kohli,6,Mid-wicket,Catch taken by Virat Kohli,catch,none,3,6,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.101131
+1,1,India,Virat Kohli,5,Long-on,Run out missed by Virat Kohli,missed_run_out,missed_run_out,-3,2,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.101254
+1,1,India,Virat Kohli,5,Cover,Direct hit by Virat Kohli,direct_hit,none,2,1,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.101376
+1,1,India,Virat Kohli,3,Wicket-keeper,Clean pick up by Virat Kohli at Wicket-keeper,clean_pick,none,1,4,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.101497
+1,1,India,Virat Kohli,5,Long-on,Good throw from Virat Kohli,good_throw,none,0,14,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.101634
+1,1,India,Virat Kohli,5,Wicket-keeper,Catch dropped by Virat Kohli,dropped_catch,none,-3,5,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.101756
+1,1,India,Virat Kohli,4,Wicket-keeper,Clean pick up by Virat Kohli at Wicket-keeper,clean_pick,none,0,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.101888
+1,1,India,Virat Kohli,3,Slip,Catch dropped by Virat Kohli,dropped_catch,none,-3,1,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102008
+1,1,India,Virat Kohli,6,Slip,Run out by Virat Kohli,run_out,run_out,2,3,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102131
+1,1,India,Virat Kohli,2,Slip,Direct hit by Virat Kohli,direct_hit,none,0,10,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102252
+1,1,India,Virat Kohli,3,Long-on,Good throw from Virat Kohli,good_throw,none,0,9,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102372
+1,1,India,Virat Kohli,2,Point,Good throw from Virat Kohli,good_throw,none,0,10,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102491
+1,1,India,Virat Kohli,1,Cover,Ball fumbled by Virat Kohli,fumble,none,-1,7,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102627
+1,1,India,Virat Kohli,6,Long-on,Bad throw by Virat Kohli,bad_throw,none,-3,8,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102748
+1,1,India,Virat Kohli,4,Slip,Clean pick up by Virat Kohli at Slip,clean_pick,none,2,15,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102876
+1,1,India,Virat Kohli,1,Slip,Catch dropped by Virat Kohli,dropped_catch,none,-1,19,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.102997
+1,1,India,Virat Kohli,4,Slip,Ball fumbled by Virat Kohli,fumble,none,-2,17,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.103118
+1,1,India,Virat Kohli,4,Mid-wicket,Catch taken by Virat Kohli,catch,none,5,11,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.103240
+1,1,India,Virat Kohli,4,Mid-wicket,Catch taken by Virat Kohli,catch,none,5,12,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.103364
+1,1,India,Virat Kohli,6,Deep square leg,Run out missed by Virat Kohli,missed_run_out,missed_run_out,-1,20,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.103485
+1,1,India,Virat Kohli,4,Slip,Good throw from Virat Kohli,good_throw,none,0,18,"Wankhede Stadium, Mumbai",2025-10-31 08:33:53.103622
